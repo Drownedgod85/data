@@ -1,4 +1,4 @@
-# Harvard CS50 SQL Problem Sets
+# SQL Problem Sets
 
 ## Movies
 * SQL queries to answer questions about a database of movies.
